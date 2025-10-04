@@ -1,0 +1,2 @@
+# Issue templates go here.
+[`workflow`](https://docs.github.com/en/actions/get-started/understand-github-actions)
